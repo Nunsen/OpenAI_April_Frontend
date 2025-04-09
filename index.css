@@ -44,3 +44,17 @@ pre {
     border-radius: 4px;
     white-space: pre-wrap;
 }
+
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 2rem auto;
+    border-radius: 10px;
+}
+
+#output {
+    font-family: 'Nunito', sans-serif; /* eller hvilken som helst anden font */
+    font-size: 1rem;
+    line-height: 1.6;
+    white-space: pre-wrap; /* Sørger for at linjeskift bevares */
+}
